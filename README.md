@@ -1,5 +1,7 @@
 # E05b-Scripting-and-Scenes
 
+*Complete* 
+
 To continue to prepare you to turn in the space shooter project, we will experiment a little with more scripting, some procedural generation, and switching scenes in GDScript.
 
 As usual, Fork and Clone this repository. Pay attention to where (on the file system) it is being saved.
